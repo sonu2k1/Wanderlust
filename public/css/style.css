@@ -54,7 +54,7 @@ body{
     align-items: space-evenly;
 }
 /* Cards */
-.card{
+.listing-card{
     border: none !important;
     margin: 2rem;
     
@@ -99,3 +99,14 @@ body{
 .btns{
     display: flex; 
 }
+#rev{
+    margin-left: 220px;
+}
+#edit{
+    background-color: #fe424d;
+    padding-bottom: 10px;
+    margin-bottom: 75px;
+    border: none !important;
+    
+}
+
