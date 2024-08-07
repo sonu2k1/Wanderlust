@@ -11,6 +11,30 @@
           <a class="nav-link" href="/listings/new">Add new Listing</a>
          
         </div>
+
+        <div class="navbar-nav ms-auto">
+         <% if(!currUser) { %>
+          <a class="nav-link "  href="/signup">Sign Up</a>
+          <a class="nav-link" href="/login">Log in</a>
+          <% } %> <% if(currUser) { %>
+          <a class="nav-link" href="/logout">Log out</a>
+          <% } %>
+        <!-- Dropdown ---------------------->
+          <!-- <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Dropdown link
+            </a>
+            <ul class="dropdown-menu">
+              <% if(!currUser) { %>
+              <li><a class="nav-link "  href="/signup">Sign Up</a></li>
+              <li><a class="nav-link" href="/login">Log in</a></li>
+              <% } %> <% if(currUser) { %>
+              <li><a class="nav-link" href="/logout">Log out</a></li>
+              <% } %>
+            </ul>
+          </li> -->
+         
+        </div>
       </div>
     </div>
   </nav>
