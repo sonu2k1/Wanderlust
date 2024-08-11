@@ -113,3 +113,10 @@ body{
 #star{
     margin-left: 0px;
 }
+
+/* MAPS */
+
+#map{
+    height: 400px;
+    width: 80vh;
+}
