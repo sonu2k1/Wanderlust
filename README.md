@@ -35,4 +35,6 @@
 
 ## 📁 Project Structure
 
+wanderlust/ ├── models/ # Mongoose schemas ├── routes/ # Express route handlers ├── controllers/ # Business logic for routes ├── views/ # EJS templates for rendering pages ├── public/ # Static files (CSS, images, JS) ├── app.js # App entry point ├── package.json # Dependencies └── .env # Environment variables
+
 
