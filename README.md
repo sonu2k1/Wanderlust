@@ -9,7 +9,8 @@
 
 [🔗 Demo Link](#) *(Add link when deployed)*
 
- <img width="1470" alt="Screenshot " src="(https://github.com/user-attachments/assets/10828980-65e5-4580-a4b3-6dde709ee636)">
+ <img width="1470" alt="Screenshot " src="https://github.com/user-attachments/assets/10828980-65e5-4580-a4b3-6dde709ee636">
+ <img width="1470" alt="Screenshot " src="https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432">
 
 ---
 
