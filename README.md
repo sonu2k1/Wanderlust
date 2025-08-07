@@ -38,7 +38,7 @@
 
 ## 📁 Project Structure
 
-wanderlust/ ├── models/ <br> # Mongoose schemas ├── routes/  <br> # Express route handlers ├── controllers/  <br> # Business logic for routes ├── views/ <br>  # EJS templates for rendering pages ├── public/ <br>  # Static files (CSS, images, JS) ├── app.js # App entry point ├── package.json # Dependencies └── .env # Environment variables
+wanderlust/ ├── models/ <br> # Mongoose schemas ├── routes/  <br> # Express route handlers ├── controllers/  <br> # Business logic for routes ├── views/ <br>  # EJS templates for rendering pages ├── public/ <br>  # Static files (CSS, images, JS) ├── app.js  <br> # App entry point ├── package.json # Dependencies └── .env # Environment variables
 
 🧪 Key Functionalities
 List a Property: Add title, description, image, price, and map location.
