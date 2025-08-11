@@ -32,7 +32,7 @@
 | Backend          | Node.js, Express.js    |
 | Database         | MongoDB (via Mongoose) |
 | Architecture     | MVC (Model-View-Controller) |
-| Maps Integration | Mapbox / Leaflet       |
+| Maps Integration | Mapbox / Leaflet       | 
 
 ---
 
