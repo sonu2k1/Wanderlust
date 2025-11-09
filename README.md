@@ -1,5 +1,4 @@
 
-
  # 🏕️ Wanderlust :-
  
 **Wanderlust** is a full-stack web application that allows users to **list properties**, **write reviews**, and **navigate listings via interactive maps**. Built with the MVC architecture, it leverages modern JavaScript technologies and MongoDB for a scalable and maintainable experience.
